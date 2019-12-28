@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Account settings" xml:space="preserve">
+    <value>إعدادات الحساب</value>
+  </data>
+  <data name="Addtion Amount" xml:space="preserve">
+    <value>كمية الإضافات (ل/م3) </value>
+  </data>
+  <data name="Addtion Type" xml:space="preserve">
+    <value>نوع الإضافات </value>
+  </data>
+  <data name="Attached" xml:space="preserve">
+    <value>مرفق </value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>المرفقات</value>
+  </data>
+  <data name="Atuomatic" xml:space="preserve">
+    <value>أتوماتيكي</value>
+  </data>
+  <data name="Average Daily Production" xml:space="preserve">
+    <value>معدل الإنتاج اليومي</value>
+  </data>
+  <data name="Block Sapmle Infromation" xml:space="preserve">
+    <value>بيانات عينة البلوك</value>
+  </data>
+  <data name="Break Concrete Sample" xml:space="preserve">
+    <value>حضور كسر عينة خرسانة</value>
+  </data>
+  <data name="Calibration certificates" xml:space="preserve">
+    <value>شهادات المعايرة </value>
+  </data>
+  <data name="Cement Source" xml:space="preserve">
+    <value>مصدر الاسمنت</value>
+  </data>
+  <data name="Cement Type" xml:space="preserve">
+    <value>نوع الاسمنت </value>
+  </data>
+  <data name="Cement Weight" xml:space="preserve">
+    <value>وزن الاسمنت (كجم)</value>
+  </data>
+  <data name="Clean" xml:space="preserve">
+    <value>نظافة </value>
+  </data>
+  <data name="Client Name" xml:space="preserve">
+    <value>اسم العميل </value>
+  </data>
+  <data name="Columns" xml:space="preserve">
+    <value>أعمدة </value>
+  </data>
+  <data name="Commercial Register" xml:space="preserve">
+    <value>السجل التجاري</value>
+  </data>
+  <data name="Concrete Rank" xml:space="preserve">
+    <value>MPa رتبة العينة نيوتن (نيوتن / مم2)</value>
+  </data>
+  <data name="Concrete Sample" xml:space="preserve">
+    <value>عينة الخرسانة</value>
+  </data>
+  <data name="Concrete Tempereture" xml:space="preserve">
+    <value>درجة حرارة الخرسانة (مْ)</value>
+  </data>
+  <data name="Concrete Using" xml:space="preserve">
+    <value>استخدام الخرسانة</value>
+  </data>
+  <data name="Create Factory" xml:space="preserve">
+    <value>تسجيل مصنع جديد</value>
+  </data>
+  <data name="Deliver Block" xml:space="preserve">
+    <value>استلام عينة بلوك</value>
+  </data>
+  <data name="Deliver Concrete" xml:space="preserve">
+    <value>استلام عينة خرسانه </value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>وصف </value>
+  </data>
+  <data name="Dim" xml:space="preserve">
+    <value>الايعاد (الطول * العرض * الارتفاع ) ملم</value>
+  </data>
+  <data name="Down Amount" xml:space="preserve">
+    <value>قيمة الهبوط (مم)</value>
+  </data>
+  <data name="Factory Email" xml:space="preserve">
+    <value>البريد الالكتروني للمصنع </value>
+  </data>
+  <data name="Factory Fax" xml:space="preserve">
+    <value>رقم  فاكس المصنع </value>
+  </data>
+  <data name="Factory Info" xml:space="preserve">
+    <value>معلومات المصنع</value>
+  </data>
+  <data name="Factory Name" xml:space="preserve">
+    <value>اسم المصنع</value>
+  </data>
+  <data name="Factory Phone Number" xml:space="preserve">
+    <value>رقم هاتف المصنع </value>
+  </data>
+  <data name="Factory Status" xml:space="preserve">
+    <value>حالة المصنع</value>
+  </data>
+  <data name="Factory workers commitment to wear masks" xml:space="preserve">
+    <value>التزام العاملين بالمصنع بلبس الكمامات</value>
+  </data>
+  <data name="Factroy Location" xml:space="preserve">
+    <value>موقع المصنع</value>
+  </data>
+  <data name="Factroy Type" xml:space="preserve">
+    <value>نوع المصنع</value>
+  </data>
+  <data name="Factroy Visit Number" xml:space="preserve">
+    <value>رقم زيارة المصنع</value>
+  </data>
+  <data name="File Name" xml:space="preserve">
+    <value>اسم الملف </value>
+  </data>
+  <data name="Global Information" xml:space="preserve">
+    <value>بيانات عامة </value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>الرئيسية</value>
+  </data>
+  <data name="Industrial license" xml:space="preserve">
+    <value>الترخيص الصناعي</value>
+  </data>
+  <data name="Infastructure" xml:space="preserve">
+    <value>أساسيات </value>
+  </data>
+  <data name="Invoice Number" xml:space="preserve">
+    <value>رقم الفاتورة </value>
+  </data>
+  <data name="ISO certificates" xml:space="preserve">
+    <value>شهادات الأيزو </value>
+  </data>
+  <data name="Laboratory Exist" xml:space="preserve">
+    <value>وجود مختبر </value>
+  </data>
+  <data name="Laboratroy Engineer Exist" xml:space="preserve">
+    <value>تواجد مهندس المختبر</value>
+  </data>
+  <data name="Latitude" xml:space="preserve">
+    <value> خط الطول </value>
+  </data>
+  <data name="Login to Your Account" xml:space="preserve">
+    <value>تسجيل الدخول</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>تسجيل الخروج</value>
+  </data>
+  <data name="Longitude" xml:space="preserve">
+    <value>خط العرض</value>
+  </data>
+  <data name="Manager  Email" xml:space="preserve">
+    <value>البريد الالكتروني لمدير المصنع </value>
+  </data>
+  <data name="Manager  Name" xml:space="preserve">
+    <value>اسم مدير المصنع</value>
+  </data>
+  <data name="Manager  PhoneNumber" xml:space="preserve">
+    <value>رقم جوال مدير المصنع </value>
+  </data>
+  <data name="Manager Experience (years)" xml:space="preserve">
+    <value>المؤهل العلمي وسنوات الخبرة</value>
+  </data>
+  <data name="Manual" xml:space="preserve">
+    <value>يدوي</value>
+  </data>
+  <data name="Mix Design" xml:space="preserve">
+    <value>الخلطة التصميمية</value>
+  </data>
+  <data name="Mixer Number" xml:space="preserve">
+    <value>رقم الخلاطة </value>
+  </data>
+  <data name="Move" xml:space="preserve">
+    <value>الانتقال</value>
+  </data>
+  <data name="Municipality license" xml:space="preserve">
+    <value>ترخيص البلدية </value>
+  </data>
+  <data name="My profile" xml:space="preserve">
+    <value>الملف الشخصي</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>التالي</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="Not Attached" xml:space="preserve">
+    <value>غير مرفق </value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>ملاحظات </value>
+  </data>
+  <data name="Notifications" xml:space="preserve">
+    <value>الإشعارات</value>
+  </data>
+  <data name="Nqraa Solutions" xml:space="preserve">
+    <value>بواسطة نقرة لتنقية المعلومات </value>
+  </data>
+  <data name="Others" xml:space="preserve">
+    <value>أخرى</value>
+  </data>
+  <data name="Owner Email" xml:space="preserve">
+    <value>البريد الالكتروني لصاحب المصنع </value>
+  </data>
+  <data name="Owner Info" xml:space="preserve">
+    <value>معلومات المالك والمديرين</value>
+  </data>
+  <data name="Owner Name" xml:space="preserve">
+    <value>اسم صاحب المصنع </value>
+  </data>
+  <data name="Owner Phone Number" xml:space="preserve">
+    <value>رقم جوال صاحب المصنع</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>كلمة السر</value>
+  </data>
+  <data name="performance sign" xml:space="preserve">
+    <value>علامة الجودة </value>
+  </data>
+  <data name="Pervious" xml:space="preserve">
+    <value>السابق</value>
+  </data>
+  <data name="Post Code" xml:space="preserve">
+    <value>صندوق بريد المصنع </value>
+  </data>
+  <data name="Prepare Block" xml:space="preserve">
+    <value>تحضر عينة بلوك </value>
+  </data>
+  <data name="Prepare Concrete" xml:space="preserve">
+    <value>تحضير عينة خرسانة</value>
+  </data>
+  <data name="Prepare Samples" xml:space="preserve">
+    <value>تحضيرات العينات </value>
+  </data>
+  <data name="Produce Power" xml:space="preserve">
+    <value>الطاقة الإنتاجية</value>
+  </data>
+  <data name="Quality Control" xml:space="preserve">
+    <value>مراقبة الجودة</value>
+  </data>
+  <data name="Quality control of flying dust from the mixer" xml:space="preserve">
+    <value>جودة التحكم في الغبار المتطاير من الخلاطة</value>
+  </data>
+  <data name="Quality Engineer  Email" xml:space="preserve">
+    <value>البريد الالكتروني لمهندس الجودة</value>
+  </data>
+  <data name="Quality Engineer  PhoneNumber" xml:space="preserve">
+    <value>رقم جوال مهندس الجودة </value>
+  </data>
+  <data name="Quality Engineer Experience (years)" xml:space="preserve">
+    <value>المؤهل العلمي وسنوات الخبرة </value>
+  </data>
+  <data name="Quality Engineer Name" xml:space="preserve">
+    <value>اسم مهندس الجودة </value>
+  </data>
+  <data name="Quality of Factory Cleaning" xml:space="preserve">
+    <value>جودة نظافة الموقع </value>
+  </data>
+  <data name="Quanlity Control System for Concrete" xml:space="preserve">
+    <value>مراقبة جودة مصانع الخرسانة والبلوك</value>
+  </data>
+  <data name="Remember me" xml:space="preserve">
+    <value>تذكرني</value>
+  </data>
+  <data name="Report Date" xml:space="preserve">
+    <value>تاريخ التقرير</value>
+  </data>
+  <data name="Report Number" xml:space="preserve">
+    <value>رقم التقرير </value>
+  </data>
+  <data name="Report Visit Block Factory" xml:space="preserve">
+    <value>تقرير زيارة مصنع البلوك</value>
+  </data>
+  <data name="Report Visit Concrete Factory" xml:space="preserve">
+    <value>تقرير زيارة مصنع خرسانة</value>
+  </data>
+  <data name="Roofs" xml:space="preserve">
+    <value>أسقف </value>
+  </data>
+  <data name="Rubble 3/4" xml:space="preserve">
+    <value>الركام 4/3 (كجم)</value>
+  </data>
+  <data name="Rubble 3/8" xml:space="preserve">
+    <value>الركام 8/3 (كجم)</value>
+  </data>
+  <data name="Sample Number" xml:space="preserve">
+    <value>رقم العينة </value>
+  </data>
+  <data name="Sample Time" xml:space="preserve">
+    <value>وقت العينة</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="Select Factroy Type" xml:space="preserve">
+    <value>اختر نوع المصنع</value>
+  </data>
+  <data name="Semi Atuomatic" xml:space="preserve">
+    <value>أتوماتيكي جزئي</value>
+  </data>
+  <data name="Shape" xml:space="preserve">
+    <value>الشكل</value>
+  </data>
+  <data name="Show all notifications" xml:space="preserve">
+    <value>رؤية كل الإشعارات</value>
+  </data>
+  <data name="Sign In" xml:space="preserve">
+    <value>دخول</value>
+  </data>
+  <data name="Sign out" xml:space="preserve">
+    <value>تسجيل الخروج</value>
+  </data>
+  <data name="Sign Up" xml:space="preserve">
+    <value>تسجيل </value>
+  </data>
+  <data name="Signup as new Factory" xml:space="preserve">
+    <value>التسجيل كمصنع جديد</value>
+  </data>
+  <data name="Spray debris in the summer" xml:space="preserve">
+    <value>رش الركام في فصل الصيف</value>
+  </data>
+  <data name="Step1" xml:space="preserve">
+    <value>الخطوة الأولى</value>
+  </data>
+  <data name="Step2" xml:space="preserve">
+    <value>الخطوة الثانية</value>
+  </data>
+  <data name="Step3" xml:space="preserve">
+    <value>الخطوة الثالثة</value>
+  </data>
+  <data name="Step4" xml:space="preserve">
+    <value>الخطوة الرابعة</value>
+  </data>
+  <data name="The design mixture used" xml:space="preserve">
+    <value>الخلطات التصميمية المستخدمة</value>
+  </data>
+  <data name="The presence of plasticizers in the concrete transport vehicle" xml:space="preserve">
+    <value>وجود ملدنات في سيارة نقل الخرسانة</value>
+  </data>
+  <data name="The presence of the laboratory engineer" xml:space="preserve">
+    <value>تواجد مهندس المختبر</value>
+  </data>
+  <data name="Total Mixers Number" xml:space="preserve">
+    <value>عدد الخلاطات بالمصنع </value>
+  </data>
+  <data name="Total Truckers Number" xml:space="preserve">
+    <value>عدد الشاحنات </value>
+  </data>
+  <data name="Trucker Number" xml:space="preserve">
+    <value>رقم الشاحنة </value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>إرفاق</value>
+  </data>
+  <data name="User name" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="Visit Date" xml:space="preserve">
+    <value>تاريخ الزيارة</value>
+  </data>
+  <data name="Visit Location" xml:space="preserve">
+    <value>موقع الزيارة</value>
+  </data>
+  <data name="Visit Reports" xml:space="preserve">
+    <value>تقارير الزيارة</value>
+  </data>
+  <data name="Visting  Block Factroy Report" xml:space="preserve">
+    <value>تقرير زيارة مصنع بلوك</value>
+  </data>
+  <data name="Washed Sand" xml:space="preserve">
+    <value>الرمل المغسول (كجم) </value>
+  </data>
+  <data name="Water Tempreture" xml:space="preserve">
+    <value>درجة حرارة الماء (مْ) </value>
+  </data>
+  <data name="Water Weight" xml:space="preserve">
+    <value>وزن الماء (كجم) </value>
+  </data>
+  <data name="Weather Tempreture" xml:space="preserve">
+    <value>درجة حرارة الجو  (مْ)</value>
+  </data>
+  <data name="White Sand" xml:space="preserve">
+    <value>الرمل الأبيض (كجم) </value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>نعم </value>
+  </data>
+</root>

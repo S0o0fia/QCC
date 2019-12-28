@@ -1,0 +1,959 @@
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ApplicationInsights.config
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AspnetMvcDemo.dll.config
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AspnetMvcDemo.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AspnetMvcDemo.pdb
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.Win32.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\netstandard.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.AppContext.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Collections.Concurrent.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Collections.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Collections.NonGeneric.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Collections.Specialized.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ComponentModel.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ComponentModel.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ComponentModel.TypeConverter.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Console.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Data.Common.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.Contracts.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.Debug.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.Process.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.StackTrace.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.Tools.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.TraceSource.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.Tracing.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Drawing.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Dynamic.Runtime.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Globalization.Calendars.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Globalization.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Globalization.Extensions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.Compression.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.Compression.ZipFile.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.FileSystem.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.FileSystem.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.FileSystem.Watcher.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.IsolatedStorage.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.MemoryMappedFiles.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.Pipes.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Linq.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Linq.Expressions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Linq.Parallel.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Linq.Queryable.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.Http.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.NameResolution.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.NetworkInformation.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.Ping.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.Requests.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.Security.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.Sockets.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.WebHeaderCollection.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.WebSockets.Client.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Net.WebSockets.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ObjectModel.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Reflection.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Reflection.Extensions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Reflection.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Resources.Reader.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Resources.ResourceManager.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Resources.Writer.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Extensions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Handles.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.InteropServices.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Numerics.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Serialization.Formatters.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Serialization.Json.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Serialization.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.Serialization.Xml.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Claims.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Cryptography.Algorithms.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Cryptography.Csp.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Cryptography.Encoding.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Cryptography.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.Principal.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Security.SecureString.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Text.Encoding.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Text.Encoding.Extensions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Text.RegularExpressions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.Overlapped.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.Tasks.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.Tasks.Parallel.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.Thread.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.ThreadPool.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Threading.Timer.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Xml.ReaderWriter.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Xml.XDocument.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Xml.XmlDocument.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Xml.XmlSerializer.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Xml.XPath.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Xml.XPath.XDocument.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AdvancedStringBuilder.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Antlr3.Runtime.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AutoprefixerHost.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.Core.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.Yui.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ClearScript.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\EcmaScript.NET.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Glob.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.Web.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.Web.Infrastructure.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Newtonsoft.Json.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Buffers.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Memory.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Numerics.Vectors.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ValueTuple.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Helpers.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Mvc.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Optimization.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Razor.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.WebPages.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.WebPages.Razor.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\WebGrease.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Yahoo.Yui.Compressor.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AdvancedStringBuilder.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Antlr3.Runtime.pdb
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\AutoprefixerHost.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.Core.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.Yui.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.Web.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\Newtonsoft.Json.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Buffers.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Memory.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Numerics.Vectors.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.ValueTuple.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Helpers.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Mvc.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Razor.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.WebPages.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.WebPages.Razor.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\System.Web.Optimization.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ru-ru\AutoprefixerHost.resources.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Core.resources.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Yui.resources.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csprojAssemblyReference.cache
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CoreCompileInputs.cache
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CopyComplete
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.pdb
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x86\libsass.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x64\libsass.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x86\ClearScriptV8-32.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x86\v8-libcpp-ia32.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x86\v8-base-ia32.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x86\v8-ia32.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x64\ClearScriptV8-64.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x64\v8-libcpp-x64.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x64\v8-base-x64.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\x64\v8-x64.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\csc.exe
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\csc.exe.config
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\csc.rsp
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\csi.exe
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\csi.exe.config
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\csi.rsp
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.AppContext.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Collections.Immutable.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Console.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Globalization.Calendars.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.IO.Compression.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Net.Http.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Net.Sockets.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Reflection.Metadata.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.ValueTuple.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\vbc.exe
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\vbc.exe.config
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\vbc.rsp
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe.config
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\LibSassHost.dll
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.xml
+F:\Naqrah\github\appwork-v1_4_0\aspnet-mvc-demo\AspnetMvcDemo\bin\LibSassHost.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ApplicationInsights.config
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x86\libsass.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x64\libsass.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x86\ClearScriptV8-32.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x86\v8-libcpp-ia32.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x86\v8-base-ia32.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x86\v8-ia32.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x64\ClearScriptV8-64.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x64\v8-libcpp-x64.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x64\v8-base-x64.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\x64\v8-x64.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AspnetMvcDemo.dll.config
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AspnetMvcDemo.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AspnetMvcDemo.pdb
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\csc.exe
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\csc.exe.config
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\csc.rsp
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\csi.exe
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\csi.exe.config
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\csi.rsp
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.AppContext.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Collections.Immutable.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Console.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Globalization.Calendars.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.IO.Compression.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Net.Http.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Net.Sockets.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Reflection.Metadata.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.ValueTuple.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\vbc.exe
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\vbc.exe.config
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\vbc.rsp
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe.config
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.Win32.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\netstandard.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.AppContext.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Collections.Concurrent.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Collections.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Collections.NonGeneric.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Collections.Specialized.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ComponentModel.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ComponentModel.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ComponentModel.TypeConverter.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Console.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Data.Common.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.Contracts.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.Debug.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.Process.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.StackTrace.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.Tools.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.TraceSource.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.Tracing.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Drawing.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Dynamic.Runtime.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Globalization.Calendars.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Globalization.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Globalization.Extensions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.Compression.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.Compression.ZipFile.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.FileSystem.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.FileSystem.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.FileSystem.Watcher.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.IsolatedStorage.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.MemoryMappedFiles.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.Pipes.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Linq.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Linq.Expressions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Linq.Parallel.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Linq.Queryable.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.Http.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.NameResolution.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.NetworkInformation.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.Ping.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.Requests.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.Security.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.Sockets.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.WebHeaderCollection.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.WebSockets.Client.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Net.WebSockets.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ObjectModel.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Reflection.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Reflection.Extensions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Reflection.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Resources.Reader.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Resources.ResourceManager.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Resources.Writer.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Extensions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Handles.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.InteropServices.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Numerics.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Serialization.Formatters.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Serialization.Json.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Serialization.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.Serialization.Xml.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Claims.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Cryptography.Algorithms.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Cryptography.Csp.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Cryptography.Encoding.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Cryptography.Primitives.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.Principal.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Security.SecureString.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Text.Encoding.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Text.Encoding.Extensions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Text.RegularExpressions.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.Overlapped.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.Tasks.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.Tasks.Parallel.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.Thread.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.ThreadPool.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Threading.Timer.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Xml.ReaderWriter.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Xml.XDocument.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Xml.XmlDocument.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Xml.XmlSerializer.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Xml.XPath.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Xml.XPath.XDocument.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AdvancedStringBuilder.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Antlr3.Runtime.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AutoprefixerHost.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.Core.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.Yui.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ClearScript.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\EcmaScript.NET.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Glob.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\LibSassHost.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.Web.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.Web.Infrastructure.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Newtonsoft.Json.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Buffers.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Memory.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Numerics.Vectors.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ValueTuple.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Helpers.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Mvc.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Optimization.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Razor.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.WebPages.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.WebPages.Razor.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\WebGrease.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Yahoo.Yui.Compressor.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AdvancedStringBuilder.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Antlr3.Runtime.pdb
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\AutoprefixerHost.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.Core.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\BundleTransformer.Yui.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\LibSassHost.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.Web.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\Newtonsoft.Json.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Buffers.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Memory.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Numerics.Vectors.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.ValueTuple.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Helpers.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Mvc.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Razor.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.WebPages.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.WebPages.Razor.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\System.Web.Optimization.xml
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ru-ru\AutoprefixerHost.resources.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Core.resources.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Yui.resources.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csprojAssemblyReference.cache
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CoreCompileInputs.cache
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CopyComplete
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.dll
+F:\Naqrah\github\Quality_Control\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.pdb
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ApplicationInsights.config
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x86\libsass.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x64\libsass.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x86\ClearScriptV8-32.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x86\v8-libcpp-ia32.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x86\v8-base-ia32.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x86\v8-ia32.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x64\ClearScriptV8-64.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x64\v8-libcpp-x64.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x64\v8-base-x64.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\x64\v8-x64.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AspnetMvcDemo.dll.config
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AspnetMvcDemo.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AspnetMvcDemo.pdb
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\csc.exe
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\csc.exe.config
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\csc.rsp
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\csi.exe
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\csi.exe.config
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\csi.rsp
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.AppContext.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Collections.Immutable.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Console.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Globalization.Calendars.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.IO.Compression.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Net.Http.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Net.Sockets.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Reflection.Metadata.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.ValueTuple.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\vbc.exe
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\vbc.exe.config
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\vbc.rsp
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe.config
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.Win32.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\netstandard.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.AppContext.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Collections.Concurrent.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Collections.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Collections.NonGeneric.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Collections.Specialized.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ComponentModel.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ComponentModel.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ComponentModel.TypeConverter.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Console.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Data.Common.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.Contracts.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.Debug.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.Process.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.StackTrace.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.Tools.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.TraceSource.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.Tracing.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Drawing.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Dynamic.Runtime.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Globalization.Calendars.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Globalization.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Globalization.Extensions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.Compression.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.Compression.ZipFile.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.FileSystem.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.FileSystem.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.FileSystem.Watcher.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.IsolatedStorage.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.MemoryMappedFiles.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.Pipes.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Linq.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Linq.Expressions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Linq.Parallel.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Linq.Queryable.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.Http.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.NameResolution.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.NetworkInformation.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.Ping.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.Requests.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.Security.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.Sockets.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.WebHeaderCollection.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.WebSockets.Client.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Net.WebSockets.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ObjectModel.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Reflection.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Reflection.Extensions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Reflection.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Resources.Reader.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Resources.ResourceManager.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Resources.Writer.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Extensions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Handles.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.InteropServices.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Numerics.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Serialization.Formatters.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Serialization.Json.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Serialization.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.Serialization.Xml.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Claims.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Cryptography.Algorithms.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Cryptography.Csp.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Cryptography.Encoding.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Cryptography.Primitives.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.Principal.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Security.SecureString.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Text.Encoding.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Text.Encoding.Extensions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Text.RegularExpressions.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.Overlapped.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.Tasks.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.Tasks.Parallel.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.Thread.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.ThreadPool.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Threading.Timer.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Xml.ReaderWriter.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Xml.XDocument.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Xml.XmlDocument.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Xml.XmlSerializer.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Xml.XPath.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Xml.XPath.XDocument.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AdvancedStringBuilder.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Antlr3.Runtime.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AutoprefixerHost.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.Core.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.Yui.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ClearScript.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\EcmaScript.NET.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Glob.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\LibSassHost.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.Web.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.Web.Infrastructure.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Newtonsoft.Json.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Buffers.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Memory.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Numerics.Vectors.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ValueTuple.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Helpers.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Mvc.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Optimization.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Razor.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.WebPages.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.WebPages.Razor.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\WebGrease.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Yahoo.Yui.Compressor.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AdvancedStringBuilder.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Antlr3.Runtime.pdb
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\AutoprefixerHost.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.Core.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\BundleTransformer.Yui.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\LibSassHost.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.Web.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\Newtonsoft.Json.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Buffers.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Memory.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Numerics.Vectors.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.ValueTuple.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Helpers.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Mvc.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Razor.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.WebPages.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.WebPages.Razor.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\System.Web.Optimization.xml
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ru-ru\AutoprefixerHost.resources.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Core.resources.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Yui.resources.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csprojAssemblyReference.cache
+F:\Naqrah\github\QC\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CoreCompileInputs.cache
+F:\Naqrah\github\QC\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CopyComplete
+F:\Naqrah\github\QC\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.dll
+F:\Naqrah\github\QC\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.pdb
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ApplicationInsights.config
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x86\libsass.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x64\libsass.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x86\ClearScriptV8-32.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x86\v8-libcpp-ia32.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x86\v8-base-ia32.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x86\v8-ia32.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x64\ClearScriptV8-64.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x64\v8-libcpp-x64.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x64\v8-base-x64.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\x64\v8-x64.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AspnetMvcDemo.dll.config
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AspnetMvcDemo.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AspnetMvcDemo.pdb
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\csc.exe
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\csc.exe.config
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\csc.rsp
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\csi.exe
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\csi.exe.config
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\csi.rsp
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.AppContext.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Console.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.IO.Compression.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Net.Http.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.ValueTuple.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\vbc.exe
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\vbc.exe.config
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\vbc.rsp
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.Win32.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\netstandard.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.AppContext.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Collections.Concurrent.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Collections.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Collections.NonGeneric.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Collections.Specialized.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ComponentModel.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ComponentModel.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ComponentModel.TypeConverter.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Console.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Data.Common.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.Contracts.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.Debug.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.Process.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.StackTrace.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.Tools.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.TraceSource.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.Tracing.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Drawing.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Dynamic.Runtime.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Globalization.Calendars.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Globalization.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Globalization.Extensions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.Compression.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.Compression.ZipFile.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.FileSystem.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.FileSystem.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.FileSystem.Watcher.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.IsolatedStorage.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.MemoryMappedFiles.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.Pipes.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Linq.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Linq.Expressions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Linq.Parallel.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Linq.Queryable.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.Http.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.NameResolution.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.NetworkInformation.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.Ping.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.Requests.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.Security.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.Sockets.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.WebHeaderCollection.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.WebSockets.Client.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Net.WebSockets.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ObjectModel.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Reflection.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Reflection.Extensions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Reflection.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Resources.Reader.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Resources.ResourceManager.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Resources.Writer.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Extensions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Handles.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.InteropServices.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Numerics.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Serialization.Formatters.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Serialization.Json.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Serialization.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.Serialization.Xml.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Claims.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Cryptography.Algorithms.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Cryptography.Csp.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Cryptography.Encoding.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Cryptography.Primitives.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.Principal.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Security.SecureString.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Text.Encoding.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Text.Encoding.Extensions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Text.RegularExpressions.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.Overlapped.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.Tasks.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.Tasks.Parallel.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.Thread.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.ThreadPool.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Threading.Timer.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Xml.ReaderWriter.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Xml.XDocument.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Xml.XmlDocument.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Xml.XmlSerializer.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Xml.XPath.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Xml.XPath.XDocument.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AdvancedStringBuilder.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Antlr3.Runtime.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AutoprefixerHost.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.Core.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.Yui.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ClearScript.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\EcmaScript.NET.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Glob.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\LibSassHost.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.Web.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Newtonsoft.Json.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Buffers.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Memory.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Numerics.Vectors.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ValueTuple.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Helpers.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Mvc.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Optimization.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Razor.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.WebPages.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.WebPages.Razor.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\WebGrease.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Yahoo.Yui.Compressor.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AdvancedStringBuilder.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Antlr3.Runtime.pdb
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\AutoprefixerHost.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.Autoprefixer.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.Core.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.SassAndScss.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\BundleTransformer.Yui.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.Core.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\JavaScriptEngineSwitcher.V8.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\LibSassHost.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.Web.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\Newtonsoft.Json.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Buffers.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Memory.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Numerics.Vectors.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.ValueTuple.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Helpers.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Mvc.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Razor.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.WebPages.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.WebPages.Razor.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\System.Web.Optimization.xml
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ru-ru\AutoprefixerHost.resources.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Core.resources.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ru-ru\BundleTransformer.Yui.resources.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csprojAssemblyReference.cache
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CoreCompileInputs.cache
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.CopyComplete
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.dll
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.pdb
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.Properties.Resources.resources
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.Translation.ar.resources
+D:\Users\Documents\مراقبة جودة الخرسانه والبلوك\QC-master\AspnetMvcDemo\obj\Debug\AspnetMvcDemo.csproj.GenerateResource.cache

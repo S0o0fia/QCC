@@ -1,0 +1,262 @@
+﻿@using Resources
+@{
+    ViewBag.Title = "Home";
+   
+}
+
+<style type="text/css">
+    .nav-tabs-top 
+    {
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-top: 10%;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .table
+    {
+        border-bottom:solid 2px #eeeeee;
+    }
+
+    a{
+        font-weight:bold;
+        text-align:right;
+    }
+</style>
+
+<body style="background-image: url('/Images/09a43040-4292-4c73-a487-2be5378d612f.jpg'); background-size: cover;" dir="rtl">
+   
+    <div class="nav-tabs-top nav-responsive-xl">
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#navs-top-responsive-link-1">@Resources.Prepare_Concrete</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#navs-top-responsive-link-2">@Resources.Prepare_Block</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#navs-top-responsive-link-3">@Resources.Deliver_Concrete</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#navs-top-responsive-link-4">@Resources.Deliver_Block</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#navs-top-responsive-link-5">@Resources.Break_Concrete_Sample</a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="navs-top-responsive-link-1">
+                <div class="card-body">
+                    <table class="table table-reponsive">
+                        <thead style="text-align:center">
+                            <tr>
+                                <th>@Resources.Factory_Name</th>
+                                <th>@Resources.Visit_Location</th>
+                                <th>@Resources.Visit_Date</th>
+                                <th>@Resources.Move</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align:center">
+                            <tr>
+                                <td>السلي</td>
+                                <td>رؤى الحياة</td>
+                                <td>12/15/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"
+                                       onclick="location.href='@Url.Action("ConcreteFactoryReports", "ConcreteFactoryReports")'"></i></td>
+                            </tr>
+                            <tr>
+                                <td>النظيم</td>
+                                <td>الحطيم</td>
+                                <td>12/05/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"  
+                                       onclick="location.href='@Url.Action("ConcreteFactoryReports", "ConcreteFactoryReports")'"></i></td>
+                        
+                            </tr>
+                            <tr>
+                                <td>ملهم</td>
+                                <td>ستار الرياض</td>
+                                <td>12/25/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"
+                                       onclick="location.href='@Url.Action("ConcreteFactoryReports", "ConcreteFactoryReports")'"></i></td>
+                            </tr>
+                            <tr>
+                                <td>أساس البناء</td>
+                                <td>طريق مكة</td>
+                                <td>12/10/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"
+                                       onclick="location.href='@Url.Action("ConcreteFactoryReports", "ConcreteFactoryReports")'"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="navs-top-responsive-link-2">
+                <div class="card-body">
+                    <table class="table table-reponsive">
+                        <thead style="text-align:center">
+                            <tr>
+                                <th>@Resources.Factory_Name</th>
+                                <th>@Resources.Visit_Location</th>
+                                <th>@Resources.Visit_Date</th>
+                                <th>@Resources.Move</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align:center">
+                            <tr>
+                                <td>السلي</td>
+                                <td>رؤى الحياة</td>
+                                <td>12/15/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"
+                                       onclick="location.href='@Url.Action("BlockFactoryReports", "BlockFactoryReports")'"></i></td>
+                            </tr>
+                            <tr>
+                                <td>النظيم</td>
+                                <td>الحطيم</td>
+                                <td>12/05/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block" 
+                                         onclick="location.href='@Url.Action("BlockFactoryReports", "BlockFactoryReports")'"></i></td>
+                            </tr>
+                            <tr>
+                                <td>ملهم</td>
+                                <td>ستار الرياض</td>
+                                <td>12/25/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"
+                                         onclick="location.href='@Url.Action("BlockFactoryReports", "BlockFactoryReports")'"></i></td>
+                            </tr>
+                            <tr>
+                                <td>أساس البناء</td>
+                                <td>طريق مكة</td>
+                                <td>12/10/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"
+                                         onclick="location.href='@Url.Action("BlockFactoryReports", "BlockFactoryReports")'"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="navs-top-responsive-link-3">
+                <div class="card-body">
+                    <table class="table table-reponsive">
+                        <thead style="text-align:center">
+                            <tr>
+                                <th>@Resources.Factory_Name</th>
+                                <th>@Resources.Visit_Location</th>
+                                <th>@Resources.Visit_Date</th>
+                                <th>@Resources.Move</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align:center">
+                            <tr>
+                                <td>السلي</td>
+                                <td>رؤى الحياة</td>
+                                <td>12/15/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>النظيم</td>
+                                <td>الحطيم</td>
+                                <td>12/05/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>ملهم</td>
+                                <td>ستار الرياض</td>
+                                <td>12/25/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>أساس البناء</td>
+                                <td>طريق مكة</td>
+                                <td>12/10/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="navs-top-responsive-link-4">
+                <div class="card-body">
+                    <table class="table table-reponsive">
+                        <thead style="text-align:center">
+                            <tr>
+                                <th>@Resources.Factory_Name</th>
+                                <th>@Resources.Visit_Location</th>
+                                <th>@Resources.Visit_Date</th>
+                                <th>@Resources.Move</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align:center">
+                            <tr>
+                                <td>السلي</td>
+                                <td>رؤى الحياة</td>
+                                <td>12/15/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>النظيم</td>
+                                <td>الحطيم</td>
+                                <td>12/05/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>ملهم</td>
+                                <td>ستار الرياض</td>
+                                <td>12/25/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>أساس البناء</td>
+                                <td>طريق مكة</td>
+                                <td>12/10/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="navs-top-responsive-link-5">
+                <div class="card-body">
+                    <table class="table table-reponsive">
+                        <thead style="text-align:center">
+                            <tr>
+                                <th>@Resources.Factory_Name</th>
+                                <th>@Resources.Visit_Location</th>
+                                <th>@Resources.Visit_Date</th>
+                                <th>@Resources.Move</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align:center">
+                            <tr>
+                                <td>السلي</td>
+                                <td>رؤى الحياة</td>
+                                <td>12/15/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>النظيم</td>
+                                <td>الحطيم</td>
+                                <td>12/05/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>ملهم</td>
+                                <td>ستار الرياض</td>
+                                <td>12/25/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                            <tr>
+                                <td>أساس البناء</td>
+                                <td>طريق مكة</td>
+                                <td>12/10/2019</td>
+                                <td><i class="ion ion-ios-arrow-dropleft-circle d-block"></i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+
